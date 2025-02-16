@@ -21,11 +21,14 @@ Dalam melakukan prediksi, terdapat dua jenis kesalahan yang mungkin terjadi:
 Target Prediksi:
 - 0: Pelanggan tidak churn
 - 1: Pelanggan churn
+
 ---
-**`Confusion Metrix Term:`**
+### **Confusion Metrix Term:**
 - True Positive (TP): Pelanggan diprediksi akan churn dan memang benar-benar churn.
 - False Positive (FP): Pelanggan diprediksi akan churn, tetapi sebenarnya tidak churn, yang menyebabkan kerugian operasional karena pengeluaran promosi yang tidak perlu.
 - False Negative (FN): Pelanggan diprediksi tidak akan churn, tetapi sebenarnya churn, mengakibatkan kehilangan pendapatan karena tidak ada tindakan pencegahan.
 - True Negative (TN): Pelanggan diprediksi tidak akan churn dan memang tidak churn, yang membantu perusahaan menghindari pemborosan sumber daya.
 ---
 Penggunaan F2-Score sangat tepat untuk mengurangi False Negative (FN) dalam konteks prediksi churn, terutama untuk promosi yang bertujuan mencegah kehilangan pelanggan berisiko. Dalam model churn, mendeteksi pelanggan yang berpotensi churn lebih penting daripada menghindari promosi yang tidak tepat sasaran. F2-Score memberikan bobot lebih pada recall, meningkatkan sensitivitas model untuk mengidentifikasi pelanggan berisiko, meskipun bisa menambah False Positives (FP). Meskipun ada pengeluaran untuk promosi yang kurang efektif, manfaat utamanya adalah memastikan pelanggan yang berisiko churn tidak terlewatkan, yang sangat relevan di industri dengan tingkat churn tinggi atau yang bergantung pada retensi pelanggan.
+
+---
