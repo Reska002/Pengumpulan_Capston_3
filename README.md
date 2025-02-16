@@ -1,4 +1,5 @@
-# E-commerce-Customer-Churn
+# <p style="text-align:center;">**E-COMMERCE CUSTOMER CHURN**</p>
+### <p style="text-align:center;">**Capstone Modul 3**</p>
 
 ### **Context**
 Dalam era digital saat ini, industri e-commerce mengalami pertumbuhan yang pesat di seluruh dunia. Dengan semakin banyaknya platform e-commerce yang bermunculan, persaingan di pasar menjadi semakin ketat. Salah satu tantangan utama yang dihadapi oleh perusahaan e-commerce adalah customer churn,  Customer churn merujuk pada pelanggan yang berpotensi meninggalkan penyedia layanan dalam periode tertentu. Tujuan utama analisis churn adalah memprediksi pelanggan yang kemungkinan berpindah, mengidentifikasi penyebabnya, dan mengambil langkah untuk memperbaiki masalah. Pendekatan ini membantu memenuhi kebutuhan pelanggan agar tetap menggunakan layanan yang disediakan Wagh et al. (2024). 
