@@ -7,7 +7,7 @@ matplotlib
 
 # Machine Learning & Preprocessing
 scikit-learn
-LGBMClassifier
+lightgbm
 imbalanced-learn
 imblearn
 
