@@ -1,5 +1,5 @@
 # E-commerce-Customer-Churn
----
+
 ### **Context**
 Dalam era digital saat ini, industri e-commerce mengalami pertumbuhan yang pesat di seluruh dunia. Dengan semakin banyaknya platform e-commerce yang bermunculan, persaingan di pasar menjadi semakin ketat. Salah satu tantangan utama yang dihadapi oleh perusahaan e-commerce adalah customer churn,  Customer churn merujuk pada pelanggan yang berpotensi meninggalkan penyedia layanan dalam periode tertentu. Tujuan utama analisis churn adalah memprediksi pelanggan yang kemungkinan berpindah, mengidentifikasi penyebabnya, dan mengambil langkah untuk memperbaiki masalah. Pendekatan ini membantu memenuhi kebutuhan pelanggan agar tetap menggunakan layanan yang disediakan Wagh et al. (2024). 
 
@@ -32,3 +32,4 @@ Target Prediksi:
 Penggunaan F2-Score sangat tepat untuk mengurangi False Negative (FN) dalam konteks prediksi churn, terutama untuk promosi yang bertujuan mencegah kehilangan pelanggan berisiko. Dalam model churn, mendeteksi pelanggan yang berpotensi churn lebih penting daripada menghindari promosi yang tidak tepat sasaran. F2-Score memberikan bobot lebih pada recall, meningkatkan sensitivitas model untuk mengidentifikasi pelanggan berisiko, meskipun bisa menambah False Positives (FP). Meskipun ada pengeluaran untuk promosi yang kurang efektif, manfaat utamanya adalah memastikan pelanggan yang berisiko churn tidak terlewatkan, yang sangat relevan di industri dengan tingkat churn tinggi atau yang bergantung pada retensi pelanggan.
 
 ---
+Lihat cara kerja prediksi churn dengan mengunjungi platform ini: https://pengumpulancapston3-tlcdcrvmlfj3wdtmmgamtx.streamlit.app/
