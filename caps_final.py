@@ -4,7 +4,7 @@ import pandas as pd
 import pickle
 
 # Load the preprocessor and model
-with open(r'C:\Users\reska\Documents\RESKA JULIANTI\Machine Learning\CAPSTONE FINAL\finalmodel_lgbm.sav', 'rb') as f:
+with open(r'finalmodel_lgbm.sav', 'rb') as f:
     model_loaded = pickle.load(f)
 
 # Streamlit App
